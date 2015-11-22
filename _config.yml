@@ -1,5 +1,6 @@
 # Site settings
 title: Peaceful Respite
+name: Peaceful Respite
 description: > # this means to ignore newlines until "baseurl:"
   For fans of Japanese video games. Peaceful Respite is dedicated to
   covering the best Japanese games that get released in the West, from
@@ -10,3 +11,6 @@ twitter_username: peacefulrespite
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-feed
