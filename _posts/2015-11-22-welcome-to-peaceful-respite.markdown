@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Peaceful Respite!"
-date:   2015-11-22 11:00:17 -0800
+title: "Welcome to Peaceful Respite!"
+date: 2015-11-22 11:00:17 -0800
 categories: meta
+author: Brett Chalupa
 ---
 
 Hello, and welcome to Peaceful Respite.
