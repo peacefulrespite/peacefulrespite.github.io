@@ -240,3 +240,19 @@
         }
     }
 }
+
+.video-wrapper {
+  height: 0;
+  margin-bottom: 20px;
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  padding-top: 20px;
+
+  iframe {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+}
