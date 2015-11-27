@@ -30,7 +30,7 @@ that really appeals to me. I really enjoy the general art style that
 comes out of Japan, from the nitty gritty of _Dark Souls_ to the classic
 _Final Fantasy_ pixel art. Covering a specific subset of games feels
 more doable as a hobby. Covering all of video games would be
-overwhelming and difficult to do for me in my free time
+overwhelming and difficult to do for me in my free time.
 
 ## Thanks!
 
