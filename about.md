@@ -13,7 +13,7 @@ links. All content is licensed under [Creative Commons
 Attribution-ShareAlike 4.0 International
 License](http://creativecommons.org/licenses/by-sa/4.0/), which means
 anyone can share and adapt the content, even for commercial
-projects, as long as their is attribution and the content is shared
+projects, as long as there is attribution and the content is shared
 under the same license.
 
 Peaceful Respite was started on November 20, 2015. Keep up with
