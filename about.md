@@ -4,10 +4,40 @@ title: About
 permalink: /about/
 ---
 
-Started on November 20th, 2015, Peaceful Respite is a website by [Brett
-Chalupa](http://www.brettchalupa.com). Brett aims to create media
-surrounding one of his passions, Japanese video games.
+Peaceful Respite is a website dedicated to covering Japanese and
+Japanese-inspired video games. The goal of the site is to create
+stories, reviews, videos, and podcasts.
+
+Peaceful Respite is a hobby site and has no advertising or affiliate
+links. All content is licensed under [Creative Commons
+Attribution-ShareAlike 4.0 International
+License](http://creativecommons.org/licenses/by-sa/4.0/), which means
+anyone can share and adapt the content, even for commercial
+projects, as long as their is attribution and the content is shared
+under the same license.
+
+Peaceful Respite was started on November 20, 2015. Keep up with
+Peaceful Respite on [Twitter](https://twitter.com/peacefulrespite),
+[YouTube](https://www.youtube.com/channel/UCXPHEDTKuEwp_Tf_9y9J2qg), and
+[Tumblr](http://tumblr.peacefulrespite.com/).
+
+## People
+
+### Brett Chalupa
+
+[![Brett
+Chalupa](https://farm1.staticflickr.com/671/23318687171_b291514a39_z.jpg)](https://flic.kr/p/BwAnhx)
+
+Brett is the creator and maintainer of Peaceful Respite. His profession
+is developing software for the non-profit [charity:
+water](http://charitywater.org). One of his earliest memories of playing
+games is playing _Pokémon Yellow_ on his Gameboy in elementary school.
 
 What Brett is playing:
 
 [![Brett's Backloggery](http://backloggery.com/brettchalupa/sig.gif)](http://backloggery.com/brettchalupa)
+
+Brett on the web:
+
+- [Website](http://www.brettchalupa.com)
+- [Twitter](https://twitter.com/brettchalupa)
