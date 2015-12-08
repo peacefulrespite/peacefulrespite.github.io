@@ -2,7 +2,7 @@
 layout: post
 title: "Quick Save: Final Fantasy VII PS4"
 date: 2015-12-08 7:00:00 -0800
-categories: video, quick save, final fantasy vii, ps4
+categories: video, quick save, final fantasy, final fantasy vii, ps4
 author: Brett Chalupa
 youtube_id: amvfsV53LTE
 ---
