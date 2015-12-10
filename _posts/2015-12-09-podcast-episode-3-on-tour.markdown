@@ -4,6 +4,7 @@ title: "Podcast: Episode 3 - On Tour"
 date: 2015-12-09 16:00:00 -0800
 categories:
   - podcast
+  - final fantasy
   - final fantasy xv
   - rogue galaxy
   - dark souls 2
