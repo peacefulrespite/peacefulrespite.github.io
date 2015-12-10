@@ -32,8 +32,5 @@ Skiff](https://soundcloud.com/eric-skiff/come-and-find-me).
 
 Thanks for listening, and have a peaceful respite.
 
------
-
-Interested in subscribing to the podcast? Here is the RSS link:
-`http://feeds.soundcloud.com/users/soundcloud:users:188515540/sounds.rss`
-and it is coming soon to iTunes.
+Subscribe via [iTunes](https://itunes.apple.com/us/podcast/peaceful-respite/id1062456619)
+or [RSS](http://feeds.soundcloud.com/users/soundcloud:users:188515540/sounds.rss).
