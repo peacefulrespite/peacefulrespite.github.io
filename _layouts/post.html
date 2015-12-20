@@ -22,6 +22,12 @@ layout: default
     {% endif %}
 
     {{ content }}
+
+    {% if page.review_score %}
+      <div class="review-score">
+        <p><strong>{{ page.review_score }} / 5</strong></p>
+      </div>
+    {% endif %}
   </div>
 
 </article>
