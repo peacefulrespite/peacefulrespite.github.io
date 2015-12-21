@@ -105,7 +105,7 @@ running in, guns blazing, and beating the game in one sitting.
 The music in _Dark Souls_ is wonderfully composed. The boss themes can be
 fast paced and intense or melancholy. At times, there is no music and
 just footsteps. It all works so well. My favorite song from the game is
-Gywn, Lord of Cinder.
+[Gwyn, Lord of Cinder](https://www.youtube.com/watch?v=AB6sOhQan9Y).
 
 _Dark Souls_, at times, feels like work. Dying from falling off a ledge or
 pressing the attack button one too many times and using all your stamina
