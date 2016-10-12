@@ -25,9 +25,6 @@ Peaceful Respite on [Twitter](https://twitter.com/peacefulrespite),
 
 ### Brett Chalupa
 
-[![Brett
-Chalupa](https://farm1.staticflickr.com/671/23318687171_b291514a39_z.jpg)](https://flic.kr/p/BwAnhx)
-
 Brett is the creator and maintainer of Peaceful Respite. His profession
 is developing software for the non-profit [charity:
 water](http://charitywater.org). One of his earliest memories of playing
