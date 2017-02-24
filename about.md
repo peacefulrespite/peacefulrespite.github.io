@@ -16,23 +16,19 @@ anyone can share and adapt the content, even for commercial
 projects, as long as there is attribution and the content is shared
 under the same license.
 
-Peaceful Respite was started on November 20, 2015. Keep up with
-Peaceful Respite on [Twitter](https://twitter.com/peacefulrespite),
-[YouTube](https://www.youtube.com/channel/UCXPHEDTKuEwp_Tf_9y9J2qg), and
-[Tumblr](http://tumblr.peacefulrespite.com/).
+Peaceful Respite was started on November 20, 2015. Follow along on [Twitter](https://twitter.com/peacefulrespite) and [YouTube](https://www.youtube.com/channel/UCXPHEDTKuEwp_Tf_9y9J2qg).
 
 ## People
 
 ### Brett Chalupa
 
-Brett is the creator and maintainer of Peaceful Respite. His profession
-is developing software for the non-profit [charity:
-water](http://charitywater.org). One of his earliest memories of playing
+Brett is the creator and maintainer of Peaceful Respite. He develops
+software professionally. One of his earliest memories of playing
 games is playing _Pokémon Yellow_ on his Gameboy in elementary school.
 
 What Brett is playing:
 
-[![Brett's Backloggery](http://backloggery.com/brettchalupa/sig.gif)](http://backloggery.com/brettchalupa)
+[![Brett's Backloggery](http://backloggery.com/peacefulrespite/sig.gif)](http://backloggery.com/peacefulrespite)
 
 Brett on the web:
 
