@@ -13,6 +13,12 @@
         padding-right: 12px;
         width: 36px;
     }
+
+    a {
+      &:hover {
+        text-decoration: none;
+      }
+    }
 }
 
 .site-title {
