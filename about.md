@@ -22,13 +22,15 @@ Peaceful Respite was started on November 20, 2015. Follow along on [Twitter](htt
 
 ### Brett Chalupa
 
+![Photo of Brett](/img/about_brett.jpg)
+
 Brett is the creator and maintainer of Peaceful Respite. He develops
 software professionally. One of his earliest memories of playing
 games is playing _Pokémon Yellow_ on his Gameboy in elementary school.
 
 What Brett is playing:
 
-[![Brett's Backloggery](http://backloggery.com/peacefulrespite/sig.gif)](http://backloggery.com/peacefulrespite)
+[![Brett's Backloggery](http://backloggery.com/brettchalupa/sig.gif)](http://backloggery.com/brettchalupa)
 
 Brett on the web:
 
