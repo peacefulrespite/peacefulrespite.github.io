@@ -1,0 +1,23 @@
+---
+layout: page
+title: Posts
+description: Archive of all of the posts.
+---
+
+<ul class="post-list">
+  {% for post in site.posts %}
+    <li>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+        <h2>
+          {{ post.title }}
+        </h2>
+
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+<p><a href="/posts">View all Posts</a></p>
+
+<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
