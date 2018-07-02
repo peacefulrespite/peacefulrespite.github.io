@@ -18,9 +18,3 @@ collections:
 
 # Build settings
 markdown: kramdown
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jemoji
