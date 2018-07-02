@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Podcast: Episode 1 - Start New Quest"
-date: 2015-11-25 19:00:00 -0800
-categories: podcast, galak-z, metal gear solid, indivisible, valkyria chronicles, bloodborne, dragon quest, gravity rush
-author: Brett Chalupa
-soundcloud_id: 234756758
+title: 'Podcast: Episode 1 - Start New Quest'
+date: '2015-11-25 00:00:00'
+tags:
+- dragon-quest
+- podcast
+- valkyria-chronicles
+- gravity-rush
+- bloodborne
 ---
 
-Welcome to the first episode of the Peaceful Respite podcast, a new show
-about Japanese video games. In this episode Brett introduces the show,
-talks about what he has been playing, and goes over some news.
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/234756758&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+Welcome to the first episode of the Peaceful Respite podcast, a new show about Japanese video games. In this episode Brett introduces the show, talks about what he has been playing, and goes over some news.
 
 Games Brett has been playing:
 
@@ -32,8 +35,7 @@ Links:
 - NeoGAF post on what goes into localization: [http://m.neogaf.com/showpost.php?p=186431762](http://m.neogaf.com/showpost.php?p=186431762)
 - Indivisible Campaign: [http://support-indivisible.com](http://support-indivisible.com)
 
-The intro and outro music is [_Come and Find Me_ by Eric
-Skiff](https://soundcloud.com/eric-skiff/come-and-find-me).
+The intro and outro music is [_Come and Find Me_ by Eric Skiff](https://soundcloud.com/eric-skiff/come-and-find-me).
 
 Thanks for listening, and have a peaceful respite.
 

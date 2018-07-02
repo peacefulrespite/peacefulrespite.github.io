@@ -1,16 +1,20 @@
 ---
 layout: post
-title: "Review: Dark Souls"
-subtitle: "A well designed gem"
-date: 2015-12-20 15:30:00 -0800
-categories: review, dark souls, ps3
-review_score: 5
-author: Brett Chalupa
+title: Dark Souls Review
+featured: true
+image: "/content/images/2017/03/dark-souls-screenshot.jpg"
+date: '2015-12-20 00:00:00'
+tags:
+- reviews
+- dark-souls
 ---
 
-_Dark Souls_ is a well designed gem.
+
+_Dark Souls_ is a well-designed gem.
 
 I purchased _Demon's Souls_ in the summer of 2010 after hearing about how much people enjoyed it. That was the summer before I started college. I played it for about an hour until I got stuck at the first boss. I never played _Demon's Souls_ again until a few years later. Fast forward to fall 2011. A week after my birthday, I went and picked up _Dark Souls_. It was my birthday gift to myself. Thinking back on it, why would I buy the spiritual successor to a game I could barely get past the beginning of?
+
+![Fat roll forever](/content/images/2017/03/vlcsnap-2015-12-11-15h11m46s161.png)
 
 When _Dark Souls_ first released, I wanted to love it. I enjoy dark fantasy settings. The feeling of being outnumbered and having to get better after each death really appealed to me. However, like Demon's Souls, I played _Dark Souls_ until the first boss in the Undead Burg. I could not for the life of me beat that boss. I never touched _Dark Souls_ again until early 2014.
 
@@ -24,9 +28,13 @@ I loaded the save and was in Anor Londo. I had placed the Lordvessel. After some
 
 _Dark Souls_ is the most refreshing game I have played in a long time. It is not overwhelming in its story exposition, and it teaches how to play through great level design. _Dark Souls_ has a depth that continues into the late game that few games do.
 
+![Where It All Began](/content/images/2017/03/lets-finish-dark-souls-episode-1-cover.png)
+
 The way Lordran is a cohesive and connected world makes exploring it more enjoyable than a game where the map is simply a sprawled out landmass. In Lordran, there is depth and height. From The Catacombs to Sen's Fortress, there are few areas alike. Exploring Lordran was a highlight of the game for me. When it clicks how an area is connected to another part of Lordran, one realizes how well designed the game is.
 
 The combat of _Dark Souls_ is a bit different than most action RPGs. Wieldable items, like sword, bows, and shields, are equipped in the left and right hands of the player. The left and right shoulder buttons and triggers are used for light and heavy attacks for each hand respectively. This took me a bit of time to get used to as most action RPGs use face buttons to attack. After playing the game for 40 hours, I think the controls for combat are solid. Moving feels good, and when you are in the thick of it, rarely do the controls get in the way.
+
+![Hello there!](/content/images/2017/03/dark-souls-hello-there.png)
 
 Face-offs with enemies, whether they are bosses or respawning creatures, feel tense and require strategy. Rarely does rushing in and spamming the attack button work. Strategies like turtling with a shield until the enemy opens up or rolling out of the way and backstabbing the enemy are much more successful. Also, just running past enemies is a totally valid approach.
 
@@ -42,4 +50,8 @@ _Dark Souls_, at times, feels like work. Dying from falling off a ledge or press
 
 The end of the game, which I will not spoil, is very fitting. It does not have some long cutscene or explanation of everything that happened. It fits into the narrative of the game, and it leaves a lot up to you, the player, as to what you think it means.
 
+![You Defeated](/content/images/2017/03/vlcsnap-2015-12-12-08h36m38s415.png)
+
 _Dark Souls_, four years after its release, holds up incredibly well. It has great design, all around, and if you are looking for something that is refreshing and challenging, there is no game I would suggest other than _Dark Souls_.
+
+**5 / 5**

@@ -7,13 +7,20 @@ description: > # this means to ignore newlines until "baseurl:"
   covering the best Japanese games that get released in the West, from
   recent release to classics.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.peacefulrespite.com" # the base hostname & protocol for your site
+url: "https://www.peacefulrespite.com" # the base hostname & protocol for your site
 twitter_username: peacefulrespite
 permalink: :title
+
+collections:
+  content:
+    title: Content
+    output: true
 
 # Build settings
 markdown: kramdown
 
-gems:
+plugins:
+  - jekyll-sitemap
   - jekyll-feed
+  - jekyll-seo-tag
   - jemoji
