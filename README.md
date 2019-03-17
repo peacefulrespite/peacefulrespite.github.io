@@ -1,6 +1,8 @@
-# Peaceful Respite
+# [Peaceful Respite](https://peacefulrespite.brettchalupa.com)
 
 For fans of Japanese video games
+
+[Inactive]
 
 ## About
 
